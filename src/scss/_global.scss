@@ -82,3 +82,32 @@ select {
 		scroll-behavior: auto !important;
 	}
 }
+
+body {
+	min-width: 280px;
+	max-width: 1920px;
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+	font-size: 62.5%;
+	line-height: 130%;
+	color: #fff;
+	font-weight: 400;
+	background-color: #a71010;
+	background-image: url('../images/background.jpg');
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100vh;
+}
+
+
+
+.container {
+	max-width: 1154px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+
+
+
+
